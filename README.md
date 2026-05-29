@@ -93,24 +93,21 @@
 
 ---
 
-## 📊 Visualizations（已在项目中实现）
+## 📊 Visualizations
 
-### 1. 特征重要性
+### 1. Feature Importance
+![Feature Importance](images/feature_importance.png)
 
-images/feature_importance.png
+### 2. ROC Curve
+![ROC Curve](images/roc_curve.png)
 
-### 2. ROC 曲线
-
-images/roc_curve.png
-
-### 3. 用户画像与复购分析
-
-images/gender_distribution.png
-
-images/repurchase_rate_by_age.png
-
-images/repurchase_rate_by_gender.png
-
+### 3. User Profile & Repurchase Analysis
+- Repurchase Rate by Age
+  ![Repurchase Rate by Age](images/repurchase_rate_by_age.png)
+- Repurchase Rate by Gender
+  ![Repurchase Rate by Gender](images/repurchase_rate_by_gender.png)
+- Gender Distribution
+  ![Gender Distribution](images/gender_distribution.png)
 ---
 
 ## ❓ Interview Questions
